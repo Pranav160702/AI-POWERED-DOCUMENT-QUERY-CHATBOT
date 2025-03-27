@@ -1,6 +1,3 @@
-
-# AI-POWERED-DOCUMENT-QUERY-CHATBOT-
-=======
 # AI Document Query Chatbot
 
 This project is an AI-powered document query chatbot using Retrieval-Augmented Generation (RAG). It enables users to retrieve information from documents using natural language queries.
