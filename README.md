@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI-POWERED-DOCUMENT-QUERY-CHATBOT-
 =======
 # AI Document Query Chatbot
